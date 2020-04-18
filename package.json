@@ -1,0 +1,22 @@
+{
+  "name": "richardbensonbot",
+  "version": "1.0.0",
+  "description": "Richard Benson Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandropisu/RichardBensonBot.git"
+  },
+  "author": "Alessandro Pisu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessandropisu/RichardBensonBot/issues"
+  },
+  "homepage": "https://github.com/alessandropisu/RichardBensonBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
